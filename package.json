@@ -1,0 +1,12 @@
+{
+    "name":"week2",
+    "version":"1.0.0",
+    "description":"Ну, короче, типа, да, лол",
+    "main":"app.js",
+    "scripts": {
+        "dev": "nodemon app.js",
+        "start": "node app.js"
+    },
+    "author":"toplayroGospodyPomiluy",
+    "license":"ISC",
+    "devDependencies":{"nodemon":"^3.1.0"}}
