@@ -1,7 +1,7 @@
-const mainRouteController = require("./public/scripts/controllers/main.js");
-const gameRouteController = require("./public/scripts/controllers/game.js");
-const defaultRouteController = require("./public/scripts/controllers/default.js");
-const voteRouteController = require("./public/scripts/controllers/vote.js")
+const mainRouteController = require("./controllers/main");
+const gameRouteController = require("./controllers/game");
+const defaultRouteController = require("./controllers/default");
+const voteRouteController = require("./controllers/vote")
 
 const http = require('http')
 
